@@ -1,5 +1,5 @@
 # education
-This repository use for the education purpose 
-<p> Have a greta week end 
-# this is for th etest to check further 
+This repository is used for educational purposes 
+<p> Have a great weekend 
+# this is for the test to check further 
 
